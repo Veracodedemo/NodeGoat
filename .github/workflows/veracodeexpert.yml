@@ -1,6 +1,5 @@
 name: Veracode_Expert
 on:
-  push
 
 jobs:
   Package:
